@@ -1,4 +1,3 @@
-# Wildlife Tracker EO - EMODnet Demo
 Repo containing the model for ***"Wildlife hostpots and Earth Observation for Marine Spatial Planning"***. EMODnet Hackathon 2023
 # Summary
 The model uses biologging data of marine migratory species annoted with Sea Surface Temperature, then it generates spatiotemporal behavioral parameters at monthly level that are used to generate probabilistic zones of ocurrence.
