@@ -4,13 +4,6 @@ The model uses biologging data of marine migratory species annoted with Sea Surf
 
 These ecological zones are delimited using EMODnet data (CORA - Temperature of Water Columns) and displayed at monthly level to promote Marine Spatial Planning such as conservation efforts and human activity planning. The zones can be added to current Marine Protected Areas by seasons.
 
-# Code
-The code for the model of ***Ecological Zones for Marine Spatial Planning with Earth Observation*** will be found in the file `wildtrackereo.py`
-
-The code is used for generating monthly zones to increase conservation efforts and to decrease human impacts in marine migratory species. The model is used in the backend of the real-time deployment with KeplerGl known as **Wildlife Tracker EO**
-
-The code is authored by the team Wildlife Tracker EO and presented in the Hackathon EMODnet 2013.
-
 # Online Demo
 [*WILDLIFE TRACKER EO - Click here to open*](https://gis4-wildlife.github.io/WildTrackerEO-EMODnet/root/Wildlife-Tracker-EO-EcoZones.html)
 
@@ -29,6 +22,13 @@ The code is authored by the team Wildlife Tracker EO and presented in the Hackat
 [*EcoGeographical layer with EMODnet SST - Click here to open*](https://gis4-wildlife.github.io/WildTrackerEO-EMODnet/root/Wildlife-Tracker-EO-Biologging.html)
 
 ![monthly](gif/emodnet-sst.gif)
+
+# Code
+The code for the model of ***Ecological Zones for Marine Spatial Planning with Earth Observation*** will be found in the file `wildtrackereo.py`
+
+The code is used for generating monthly zones to increase conservation efforts and to decrease human impacts in marine migratory species. The model is used in the backend of the real-time deployment with KeplerGl known as **Wildlife Tracker EO**
+
+The code is authored by the team Wildlife Tracker EO and presented in the Hackathon EMODnet 2013.
 
 # Contact
 [GIS4 Wildlife Movement Analytics](https://www.gis4-wildlife.com/)
